@@ -1,0 +1,64 @@
+C# Tutorial
+C# is a simple & powerful object-oriented programming language developed by Microsoft. C# can be used to create various types of applications, such as web, windows, console applications or other types of applications using Visual studio.
+These C# tutorials will help you learn the essentials of C#, from the basic to advance level topics. These tutorials are broken down into sections, where each section contains a number of related topics that are packed with easy to understand explanations, real-world examples, useful tips, informative notes and a "points to remember" section.
+
+
+
+
+
+C# Version History:
+
+C# is a simple & powerful object-oriented programming language developed by Microsoft.
+
+C# has evolved much since its first release in 2002. C# was introduced with .NET Framework 1.0 and the current version of C# is 6.0.
+
+The following table lists important features introduced in each version of C#:
+
+Version	.NET Framework	Visual Studio	Important Features
+C# 1.0	.NET Framework 1.0/1.1	Visual Studio .NET 2002	
+Basic features
+C# 2.0	.NET Framework 2.0	Visual Studio 2005	
+Generics
+Partial types
+Anonymous methods
+Iterators
+Nullable types
+Private setters (properties)
+Method group conversions (delegates)
+Covariance and Contra-variance
+Static classes
+C# 3.0	.NET Framework 3.0\3.5	Visual Studio 2008	
+Implicitly typed local variables
+Object and collection initializers
+Auto-Implemented properties
+Anonymous types
+Extension methods
+Query expressions
+Lambda expressions
+Expression trees
+Partial Methods
+C# 4.0	.NET Framework 4.0	Visual Studio 2010	
+Dynamic binding (late binding)
+Named and optional arguments
+Generic co- and contravariance
+Embedded interop types
+C# 5.0	.NET Framework 4.5	Visual Studio 2012/2013	
+Async features
+Caller information
+C# 6.0	.NET Framework 4.6	Visual Studio 2013/2015	
+Expression Bodied Methods
+Auto-property initializer
+nameof Expression
+Primary constructor
+Await in catch block
+Exception Filter
+String Interpolation
+C# 7.0	.NET Core	Visual Studio 2017	
+out variables
+Tuples
+Discards
+Pattern Matching
+Local functions
+Generalized async return types
+throw Expressions
+Learn how to setup a development environment for C# in the next section.
